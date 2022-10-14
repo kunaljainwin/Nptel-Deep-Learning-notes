@@ -6,6 +6,7 @@ Notes made while learning NPTEL DEEP Learning Course
 
 # Week 1
 Biological Neuron
+![](https://miro.medium.com/max/1400/1*hkYlTODpjJgo32DoCOWN5w.png)
 
 From Spring to Winter of AI
 
