@@ -10,6 +10,7 @@
 
 
 # [Week 1](https://drive.google.com/drive/folders/13Coj35UfJ-Q5RQUcXikzdA2mUGLvEMDm)
+## [Assignment link](https://onlinecourses.nptel.ac.in/noc22_cs124/unit?unit=17&assessment=181)
 ### Biological Neuron
 ![](https://miro.medium.com/max/1400/1*hkYlTODpjJgo32DoCOWN5w.png)
 
