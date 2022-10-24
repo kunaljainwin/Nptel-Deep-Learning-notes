@@ -4,7 +4,7 @@ Notes made while learning NPTEL DEEP Learning Course
 - Probability
 - statistics
 
-# Week 1
+# [Week 1](https://drive.google.com/drive/folders/13Coj35UfJ-Q5RQUcXikzdA2mUGLvEMDm)
 Biological Neuron
 ![](https://miro.medium.com/max/1400/1*hkYlTODpjJgo32DoCOWN5w.png)
 
