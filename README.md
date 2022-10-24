@@ -34,8 +34,10 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 
 
 We guess weight `W` to minimize error called "Guess Work" then  we have Gradient descent and its variants an algorithm to do the same.
-- If we set `W` to very High value we can recover the step function
+- [ ] If we set `W` to very High value we can recover the step function
 ![image](https://user-images.githubusercontent.com/72144717/197610724-cf33582e-39bf-4814-bfe8-884fd692d709.png)
 
+
+- [ ] Now we should try approximating any different functions using neural networks
 
 
