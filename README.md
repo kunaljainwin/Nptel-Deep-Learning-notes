@@ -43,6 +43,8 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 
 
 - [ ] Now we should try approximating any different functions using neural networks
+![image](https://user-images.githubusercontent.com/72144717/197617712-6a0644ae-ecc0-469e-a43d-00911d8e1c2f.png)
+
 ![image](https://user-images.githubusercontent.com/72144717/197616192-e44d1a30-1499-4c58-a81e-2b531405d832.png)
 
 - [ ] We have understood for 1D input we require 2 neurons to create the tower after subtractint two different sigmoid fuunctions
@@ -50,4 +52,6 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 - [ ] Therefore, for nD input we require 2^n neurons
 
 
+# [Week 3](https://drive.google.com/drive/folders/16FeJcuCzZi7iMLVf1pp0Qyym4ViEKLCF)
+### Backtracking and variations of gradient Descent
 
