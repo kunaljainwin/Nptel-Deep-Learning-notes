@@ -23,7 +23,9 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 ![image](https://user-images.githubusercontent.com/72144717/197604093-027792f6-bc6b-49d6-ac88-f42a1c31a073.png)
 
 # [Week 2](https://drive.google.com/drive/folders/1XQtsxF1GHseEf-dJxyzSCXuwdXubhYAk)
-### Sigmoid Neuron
+### Sigmoid Neuron 
+- [ ] Sigmoid is family of functions out of which we used logistic function
+
 
 ![image](https://user-images.githubusercontent.com/72144717/197604956-7dc81409-2f82-42fa-bbbe-1af7f78a7675.png)
 
@@ -54,4 +56,9 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 
 # [Week 3](https://drive.google.com/drive/folders/16FeJcuCzZi7iMLVf1pp0Qyym4ViEKLCF)
 ### Backtracking and variations of gradient Descent
+- [Multilayered Neurons](https://youtu.be/AASR9rOzhhA)
+![image](https://user-images.githubusercontent.com/72144717/197621318-d6ea4831-d98c-47b0-a6e5-00454cdf4d36.png)
+
+
+
 
