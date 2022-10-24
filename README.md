@@ -15,8 +15,11 @@
 
 
 From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating humans at their own games (literally), (Need for) Sanity, Motivation from Biological Neurons, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Error and Error Surfaces, Perceptron Learning Algorithm, Proof of Convergence of Perceptron Learning Algorithm
+
 ![image](https://user-images.githubusercontent.com/72144717/197603446-387b3d4e-0082-4cf7-8c31-ebbf5b894a28.png)
+
 ![image](https://user-images.githubusercontent.com/72144717/197603760-76323edd-de27-44ad-a6ee-4d24df1ae6e9.png)
+
 ![image](https://user-images.githubusercontent.com/72144717/197604093-027792f6-bc6b-49d6-ac88-f42a1c31a073.png)
 
 # [Week 2](https://drive.google.com/drive/folders/1XQtsxF1GHseEf-dJxyzSCXuwdXubhYAk)
@@ -33,11 +36,18 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 
 
 
-We guess weight `W` to minimize error called "Guess Work" then  we have Gradient descent and its variants an algorithm to do the same.
+- [ ] We guess weight `W` to minimize error called "Guess Work" then  we have Gradient descent and its variants an algorithm to do the same.
 - [ ] If we set `W` to very High value we can recover the step function
+
 ![image](https://user-images.githubusercontent.com/72144717/197610724-cf33582e-39bf-4814-bfe8-884fd692d709.png)
 
 
 - [ ] Now we should try approximating any different functions using neural networks
+![image](https://user-images.githubusercontent.com/72144717/197616192-e44d1a30-1499-4c58-a81e-2b531405d832.png)
+
+- [ ] We have understood for 1D input we require 2 neurons to create the tower after subtractint two different sigmoid fuunctions
+- [ ] for 2D input we require 4 neurons
+- [ ] Therefore, for nD input we require 2^n neurons
+
 
 
