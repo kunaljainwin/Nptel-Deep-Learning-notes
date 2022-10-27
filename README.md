@@ -38,12 +38,20 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 
 
 
-
+- [ ] For a perceptron there can be one or many extra inputs known as biases and weight is the slope of classifier line and biase allow us to shift line right or left.
 - [ ] We guess weight `W` to minimize error called "Guess Work" then  we have Gradient descent and its variants an algorithm to do the same.
-- [ ] If we set `W` to very High value we can recover the step function
+- [ ] If we set `W` to very High value we can recover the step function.
+
+
 
 ![image](https://user-images.githubusercontent.com/72144717/197610724-cf33582e-39bf-4814-bfe8-884fd692d709.png)
 
+### Activating function 
+Activation function decides whether a neuron should be activated or not by calculating  the weighted sum and further adding bias with it.It introduces non linerity . for eg.
+-  Unit or binary step
+-  Sigmoid logistic
+-  Tanh
+-  ReLU
 
 - [ ] Now we should try approximating any different functions using neural networks
 ![image](https://user-images.githubusercontent.com/72144717/197617712-6a0644ae-ecc0-469e-a43d-00911d8e1c2f.png)
