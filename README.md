@@ -16,8 +16,11 @@
 
 
 From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating humans at their own games (literally), (Need for) Sanity, Motivation from Biological Neurons, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Error and Error Surfaces, Perceptron Learning Algorithm, Proof of Convergence of Perceptron Learning Algorithm
+## Perceptron
+- Single layer cannot solve non-linear seprable data points.
+![image](https://user-images.githubusercontent.com/72144717/198254671-14790d94-c6f6-486b-8731-e5f5ed8bd192.png)
 
-![image](https://user-images.githubusercontent.com/72144717/197603446-387b3d4e-0082-4cf7-8c31-ebbf5b894a28.png)
+ ![image](https://user-images.githubusercontent.com/72144717/197603446-387b3d4e-0082-4cf7-8c31-ebbf5b894a28.png)
 
 ![image](https://user-images.githubusercontent.com/72144717/197603760-76323edd-de27-44ad-a6ee-4d24df1ae6e9.png)
 
@@ -64,19 +67,33 @@ Activation function decides whether a neuron should be activated or not by calcu
 
 
 # [Week 3](https://drive.google.com/drive/folders/16FeJcuCzZi7iMLVf1pp0Qyym4ViEKLCF)
-## Backtracking and variations of gradient Descent
+### Backtracking and variations of gradient Descent
 used to find best W and B its goal is  to reach minimum error coordiantes.(Bottom of bowl)
-### Steps for using gradient descent algorithm
+#### Steps for using gradient descent algorithm
 - [ ] Inititalize random weights and bias
 - [ ] Pass an input through the network and get values from the output layer
 - [ ] Calulate the error between the actual value and the predicted value
 - [ ] Change respective value to reduce the error
 - [ ] Repeat previous 3 steps until we minimize the error
+#### Stochatic GD
+#### mini batch GD (Most popular optimization algorithm)
 
+### Cost function
+### Data Normalization
+![image](https://user-images.githubusercontent.com/72144717/198267164-5521acaf-83db-4169-981e-68c44cdd2dbc.png)
+
+### Weight Initialization 
+
+
+
+### Multilayered Neurons(input,hidden,output layers)
+- Deep neural networks are better than Shallow networks
 - [Multilayered Neurons](https://youtu.be/AASR9rOzhhA)
 ![image](https://user-images.githubusercontent.com/72144717/197621318-d6ea4831-d98c-47b0-a6e5-00454cdf4d36.png)
-Stochatic GD
-mini batch GD (Most popular optimization algorithm)
-
+## Backpropagation
+## Feed forward neural networks
+## Hyperparameters
+- are the variables which determine the network structure
+###
 
 
