@@ -1,5 +1,10 @@
 # Notes made while learning NPTEL DEEP Learning Course
 ## Important Notes
+### Basics
+- [ ] Large amounts of data
+- [ ] Can be easily fooled
+- [ ] They are also known as Black-Boxes
+- [ ] Thus far has not been well integrated with prior knowledges
 ### TENSORFLOW
 - Opensource
 - Tensors in TF are multi dimensional arrays(DATA with higher dimensions)
@@ -104,6 +109,7 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 
 ### Network parameters and training parameters
 
+
 ## Dropout
 ![image](https://user-images.githubusercontent.com/72144717/198268228-68382965-6cae-4a3b-9d1b-5d11aa6aa5b7.png)
 
@@ -112,6 +118,13 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 - Input is a multi-channeled image or a vector we say,
 
 ## RNN (Recurrent neural network)
-- Backpropagation problems : vanishing gradient
+- Backpropagation problems : vanishing gradient and Exploding gradient
 - used for pattern recognition in handwritting
-- 
+
+### LSTM 
+- An RNN with feedback connections, they are capable of learning long term dependencies
+
+~ Autoencoder /decoder
+
+
+
