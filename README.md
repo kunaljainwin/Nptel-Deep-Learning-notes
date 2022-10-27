@@ -1,10 +1,17 @@
 # Notes made while learning NPTEL DEEP Learning Course
 ## Important Notes
+### TENSORFLOW
+- Opensource
+- Tensors in TF are multi dimensional arrays(DATA with higher dimensions)
+- Operations which neural networks performs on tensors.
+- PLatform flexibility
+- It has auto differentiable capabilites
+- Advanced support for threads , asynchronus computations.
 # Prequisites
 - Matrix
 - Probability
 - statistics
-
+# Drawbacks
 ![image](https://user-images.githubusercontent.com/72144717/197602891-662d93a3-8880-414a-a8de-5f81394041ce.png)![image](https://user-images.githubusercontent.com/72144717/197610903-a2d78650-917f-47ff-a2c3-2964206cd20e.png)
 
 
@@ -94,6 +101,17 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ## Feed forward neural networks
 ## Hyperparameters
 - are the variables which determine the network structure
-###
 
+### Network parameters and training parameters
 
+## Dropout
+![image](https://user-images.githubusercontent.com/72144717/198268228-68382965-6cae-4a3b-9d1b-5d11aa6aa5b7.png)
+
+## CNN (Convolutional neural network)
+- Class of deep neural networks, most commonly used for analyzing visual imagery.
+- Input is a multi-channeled image or a vector we say,
+
+## RNN (Recurrent neural network)
+- Backpropagation problems : vanishing gradient
+- used for pattern recognition in handwritting
+- 
