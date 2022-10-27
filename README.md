@@ -48,10 +48,10 @@ From Spring to Winter of AI, The Deep Revival, Faster, higher, stronger, Beating
 
 ### Activating function 
 Activation function decides whether a neuron should be activated or not by calculating  the weighted sum and further adding bias with it.It introduces non linerity . for eg.
--  Unit or binary step
--  Sigmoid logistic
--  Tanh
--  ReLU
+- Unit or binary step
+- Sigmoid logistic
+- Tanh
+- ReLU
 
 - [ ] Now we should try approximating any different functions using neural networks
 ![image](https://user-images.githubusercontent.com/72144717/197617712-6a0644ae-ecc0-469e-a43d-00911d8e1c2f.png)
@@ -65,9 +65,18 @@ Activation function decides whether a neuron should be activated or not by calcu
 
 # [Week 3](https://drive.google.com/drive/folders/16FeJcuCzZi7iMLVf1pp0Qyym4ViEKLCF)
 ## Backtracking and variations of gradient Descent
+used to find best W and B its goal is  to reach minimum error coordiantes.(Bottom of bowl)
+### Steps for using gradient descent algorithm
+- [ ] Inititalize random weights and bias
+- [ ] Pass an input through the network and get values from the output layer
+- [ ] Calulate the error between the actual value and the predicted value
+- [ ] Change respective value to reduce the error
+- [ ] Repeat previous 3 steps until we minimize the error
+
 - [Multilayered Neurons](https://youtu.be/AASR9rOzhhA)
 ![image](https://user-images.githubusercontent.com/72144717/197621318-d6ea4831-d98c-47b0-a6e5-00454cdf4d36.png)
-
+Stochatic GD
+mini batch GD (Most popular optimization algorithm)
 
 
 
