@@ -105,8 +105,10 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 - Deep neural networks are better than Shallow networks
 - [Multilayered Neurons](https://youtu.be/AASR9rOzhhA)
 ![image](https://user-images.githubusercontent.com/72144717/197621318-d6ea4831-d98c-47b0-a6e5-00454cdf4d36.png)
-## Backpropagation
 ## Feed forward neural networks
+## Backpropagation
+### Information Content , Entropy and Cross Entropy
+
 ## Hyperparameters
 - are the variables which determine the network structure
 
