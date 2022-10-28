@@ -170,6 +170,19 @@ Bias Correction in Adam
 #
 ![image](https://user-images.githubusercontent.com/72144717/198692291-6f5c6732-fd12-4e34-a180-d2fada93ea29.png)
 
+
+
+
+
+
+#[Week 5]()
+## Eigenvalues and Eigenvectors
+[Nice video to understand](https://onlinecourses.nptel.ac.in/noc22_cs124/unit?unit=71&lesson=72)
+
+
+
+
+
 ## Questions and Answers
 ![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
 # 
