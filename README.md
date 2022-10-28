@@ -5,6 +5,8 @@
 - [ ] Can be easily fooled
 - [ ] They are also known as Black-Boxes
 - [ ] Thus far has not been well integrated with prior knowledges
+- [ ]  `VARIANCE` : Difference in performance of MLAlogo between Training and testing datasets
+- [ ]  Ideal algorithm has low bias as well as low variance
 ### TENSORFLOW
 - Opensource
 - Tensors in TF are multi dimensional arrays(DATA with higher dimensions)
@@ -101,7 +103,7 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ![image](https://user-images.githubusercontent.com/72144717/198700358-7b9e54c0-970c-4f92-8477-6b902e28a324.png)
 - [ ] Its hard to predict which from linear regression and squiglly line will perform better on testing set
 ![image](https://user-images.githubusercontent.com/72144717/198700265-c7b217ac-5e65-4d67-894c-ca57da0d0765.png)
-
+- [ ] This is called overfitting, i.e squiglly line is overfitting.
 
 
 ### Multilayered Neurons(input,hidden,output layers)
