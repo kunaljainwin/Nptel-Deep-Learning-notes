@@ -180,7 +180,10 @@ Bias Correction in Adam
 [Nice video to understand](https://onlinecourses.nptel.ac.in/noc22_cs124/unit?unit=71&lesson=72)
 [Proof about max eigenvalue of a row stochastic matrix](https://yutsumura.com/eigenvalues-of-a-stochastic-matrix-is-always-less-than-or-equal-to-1/)
 - [ ]  It says that if the matrix is column stochastic matrix our Value of (Anot*Xnot)= M^n(Vector) becomes constant i.e k(LAMBDAd)(ed)
+
 ![image](https://user-images.githubusercontent.com/72144717/198712577-fafa638b-17a4-42bd-9e1e-ac3b709bdc0e.png)
+![image](https://user-images.githubusercontent.com/72144717/198713752-ccc2db19-ff21-49ed-9cac-b371656b82e8.png)
+
 
 
 
