@@ -133,5 +133,12 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 
 ## Questions and Answers
 ![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
+# 
+![image](https://user-images.githubusercontent.com/72144717/198660971-ec1a1717-fb71-4dfa-a604-a8dba828c8c8.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198662678-addf7ab8-f028-49b5-aff2-6d470ec8e9fa.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198674039-0fcea958-845c-4874-8e29-5de54a1310ef.png)
+
 
 
