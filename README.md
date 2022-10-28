@@ -1,4 +1,4 @@
-# Notes made while learning NPTEL DEEP Learning Course
+# [Notes made while learning NPTEL DEEP Learning Course] (https://onlinecourses.nptel.ac.in/noc22_cs124/)
 ## Important Notes
 ### Basics
 - [ ] Large amounts of data
@@ -67,6 +67,7 @@ Activation function decides whether a neuron should be activated or not by calcu
 - Sigmoid logistic
 - Tanh
 - ReLU
+![image](https://user-images.githubusercontent.com/72144717/198653866-337fbf20-1bb3-41be-ab41-674379f40628.png)
 
 - [ ] Now we should try approximating any different functions using neural networks
 ![image](https://user-images.githubusercontent.com/72144717/197617712-6a0644ae-ecc0-469e-a43d-00911d8e1c2f.png)
