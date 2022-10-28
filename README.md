@@ -15,7 +15,7 @@
 - It has auto differentiable capabilites
 - Advanced support for threads , asynchronus computations.
 # Prequisites
-- Matrix
+- Matrix(Principle component analysis)
 - Probability
 - statistics
 # Drawbacks
@@ -185,7 +185,7 @@ Bias Correction in Adam
 ![image](https://user-images.githubusercontent.com/72144717/198713752-ccc2db19-ff21-49ed-9cac-b371656b82e8.png)
 
 [Orthonormal vectors are orthogonal/perpendicular vectors that are linearly independent and normal means that they are unit vectors](https://onlinecourses.nptel.ac.in/noc22_cs124/unit?unit=71&lesson=73)
-
+[Helps](https://youtu.be/mdZVysybPrk?t=507)
 
 
 
