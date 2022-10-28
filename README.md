@@ -91,6 +91,8 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 #### mini batch GD (Most popular optimization algorithm)
 
 ### Cost function
+![image](https://user-images.githubusercontent.com/72144717/198651428-d02ab1d6-86ac-4d97-be69-e7e5919905b5.png)
+
 ### Data Normalization
 ![image](https://user-images.githubusercontent.com/72144717/198267164-5521acaf-83db-4169-981e-68c44cdd2dbc.png)
 
@@ -126,5 +128,9 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 
 ~ Autoencoder /decoder
 
+
+
+## Questions and Answers
+![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
 
 
