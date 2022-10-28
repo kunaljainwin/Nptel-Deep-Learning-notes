@@ -98,6 +98,9 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ![image](https://user-images.githubusercontent.com/72144717/198267164-5521acaf-83db-4169-981e-68c44cdd2dbc.png)
 
 ### Weight Initialization 
+![image](https://user-images.githubusercontent.com/72144717/198700358-7b9e54c0-970c-4f92-8477-6b902e28a324.png)
+- [ ] Its hard to predict which from linear regression and squiglly line will perform better on testing set
+![image](https://user-images.githubusercontent.com/72144717/198700265-c7b217ac-5e65-4d67-894c-ca57da0d0765.png)
 
 
 
