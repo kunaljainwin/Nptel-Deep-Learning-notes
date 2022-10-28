@@ -186,8 +186,12 @@ Bias Correction in Adam
 
 [Orthonormal vectors are orthogonal/perpendicular vectors that are linearly independent and normal means that they are unit vectors](https://onlinecourses.nptel.ac.in/noc22_cs124/unit?unit=71&lesson=73)
 [Helps](https://youtu.be/mdZVysybPrk?t=507)
+Height in basketball 
+[Helps](https://youtu.be/5eEPs8XS5AQ?t=367)
+salary /Income tax corelation
 
-
+- [ ] How do you prove linearly independent?
+The linear independence of a set of vectors can be determined by calculating the determinant of a matrix with columns composed of the vectors in the set. If the determinant is equal to zero, then the set of vectors is linearly dependent. If the determinant is non-zero, then the set of vectors is linearly independent.08
 
 ## Questions and Answers
 ![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
@@ -215,6 +219,13 @@ Bias Correction in Adam
 ![image](https://user-images.githubusercontent.com/72144717/198706981-78f95ea9-f327-4330-b6f3-efd9c47251d5.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198707129-7fd63a83-5ce7-49e9-acfb-b407b40c1829.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198725157-2b21470c-0c4d-4f65-b368-1521b44277e9.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198727212-510f5dcc-2f83-4402-b61a-9ab0d05becbe.png)
+#
+Beause they are co-related
+![image](https://user-images.githubusercontent.com/72144717/198727554-5454f847-583b-4a3a-87de-f1293b461723.png)
 
 
 
