@@ -133,6 +133,23 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ~ Autoencoder /decoder
 
 
+# [Week 4](https://drive.google.com/drive/folders/12FA_QRbs1Pjfx9WmKd-TOdk8uwKgLYda)
+## Guess work
+## Contour Maps
+
+Momentum based Gradient Descent
+
+Nesterov Accelerated Gradient Descent
+
+Stochastic And Mini-Batch Gradient Descent
+
+Tips for Adjusting Learning Rate and Momentum
+
+Line Search
+
+Gradient Descent with Adaptive Learning Rate
+
+Bias Correction in Adam
 
 ## Questions and Answers
 ![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
@@ -142,6 +159,16 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ![image](https://user-images.githubusercontent.com/72144717/198662678-addf7ab8-f028-49b5-aff2-6d470ec8e9fa.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198674039-0fcea958-845c-4874-8e29-5de54a1310ef.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198691489-296a9d69-653c-4c55-8197-502b41e3a44d.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198691668-987e7316-c12d-4f2f-831b-8666515bd3be.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198691916-9a12ec8a-0be1-4b80-a123-869fea457a0b.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198692228-7e90fedb-e987-4232-ba01-16a6899775fe.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198692291-6f5c6732-fd12-4e34-a180-d2fada93ea29.png)
 
 
 
