@@ -178,7 +178,7 @@ Bias Correction in Adam
 #[Week 5]()
 ## Eigenvalues and Eigenvectors
 [Nice video to understand](https://onlinecourses.nptel.ac.in/noc22_cs124/unit?unit=71&lesson=72)
-
+[Proof about max eigenvalue of a row stochastic matrix](https://yutsumura.com/eigenvalues-of-a-stochastic-matrix-is-always-less-than-or-equal-to-1/)
 
 
 
