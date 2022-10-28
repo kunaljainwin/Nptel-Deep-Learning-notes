@@ -166,6 +166,9 @@ Gradient Descent with Adaptive Learning Rate
 ![image](https://user-images.githubusercontent.com/72144717/198706245-17d81a34-be35-46ec-a822-3fcd10779728.png)
 
 Bias Correction in Adam
+![image](https://user-images.githubusercontent.com/72144717/198692228-7e90fedb-e987-4232-ba01-16a6899775fe.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198692291-6f5c6732-fd12-4e34-a180-d2fada93ea29.png)
 
 ## Questions and Answers
 ![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
@@ -181,10 +184,6 @@ Bias Correction in Adam
 ![image](https://user-images.githubusercontent.com/72144717/198691668-987e7316-c12d-4f2f-831b-8666515bd3be.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198691916-9a12ec8a-0be1-4b80-a123-869fea457a0b.png)
-#
-![image](https://user-images.githubusercontent.com/72144717/198692228-7e90fedb-e987-4232-ba01-16a6899775fe.png)
-#
-![image](https://user-images.githubusercontent.com/72144717/198692291-6f5c6732-fd12-4e34-a180-d2fada93ea29.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198705272-d6ca2021-66c1-4cd0-8847-833fc7e0abc8.png)
 #
