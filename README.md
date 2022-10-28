@@ -108,6 +108,7 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ## Feed forward neural networks
 ## Backpropagation
 ### Information Content , Entropy and Cross Entropy
+![image](https://user-images.githubusercontent.com/72144717/198691255-301a7e38-0447-49b6-9a2a-5758dd6b7ec3.png)
 
 ## Hyperparameters
 - are the variables which determine the network structure
