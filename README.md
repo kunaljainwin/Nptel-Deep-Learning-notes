@@ -94,6 +94,7 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 #### mini batch GD (Most popular optimization algorithm)
 
 ### Cost function
+- Average of mean squared errors
 ![image](https://user-images.githubusercontent.com/72144717/198651428-d02ab1d6-86ac-4d97-be69-e7e5919905b5.png)
 
 ### Data Normalization
@@ -140,7 +141,8 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 
 # [Week 4](https://drive.google.com/drive/folders/12FA_QRbs1Pjfx9WmKd-TOdk8uwKgLYda)
 ## Guess work
-## Contour Maps
+## Contour Maps+Comparison of all variations
+![image](https://user-images.githubusercontent.com/72144717/198702940-6b4d18cf-c702-4797-bf06-e2b4bb49c3c5.png)
 
 Momentum based Gradient Descent
 
