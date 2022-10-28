@@ -84,6 +84,9 @@ Activation function decides whether a neuron should be activated or not by calcu
 # [Week 3](https://drive.google.com/drive/folders/16FeJcuCzZi7iMLVf1pp0Qyym4ViEKLCF)
 ### Backtracking and variations of gradient Descent
 used to find best W and B its goal is  to reach minimum error coordiantes.(Bottom of bowl)
+![image](https://user-images.githubusercontent.com/72144717/198706119-407e95af-dbc3-4fa3-b80a-253c3d8d14d0.png)
+
+
 #### Steps for using gradient descent algorithm
 - [ ] Inititalize random weights and bias
 - [ ] Pass an input through the network and get values from the output layer
@@ -146,16 +149,21 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 ![Alt] (https://firebasestorage.googleapis.com/v0/b/visitcounter-fef16.appspot.com/o/885513eee0b_33163162ddd94900b7d9f5b049e9b7e3_mv2.gif?alt=media&token=b71104a0-166d-4bd0-b297-6833f4485f4a)
 
 Momentum based Gradient Descent
+- Update rule
+![image](https://user-images.githubusercontent.com/72144717/198705830-d1d37ffe-e45e-4426-991a-389ebd49611e.png)
 
 Nesterov Accelerated Gradient Descent
+![image](https://user-images.githubusercontent.com/72144717/198705944-57c9a1f9-e006-4638-a131-9af2fca669c3.png)
 
 Stochastic And Mini-Batch Gradient Descent
+![image](https://user-images.githubusercontent.com/72144717/198704959-98cf0054-b7ac-45a6-a4e3-7b31babe55f2.png)
 
 Tips for Adjusting Learning Rate and Momentum
 
 Line Search
 
 Gradient Descent with Adaptive Learning Rate
+![image](https://user-images.githubusercontent.com/72144717/198706245-17d81a34-be35-46ec-a822-3fcd10779728.png)
 
 Bias Correction in Adam
 
@@ -177,6 +185,18 @@ Bias Correction in Adam
 ![image](https://user-images.githubusercontent.com/72144717/198692228-7e90fedb-e987-4232-ba01-16a6899775fe.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198692291-6f5c6732-fd12-4e34-a180-d2fada93ea29.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198705272-d6ca2021-66c1-4cd0-8847-833fc7e0abc8.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198706432-a802cb50-a5d6-4f93-969e-acfc2a7294ed.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198706599-d6e8e601-8968-406e-95e2-06221e4977e9.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198706852-219d739c-f6d5-4a48-9886-07fa0ea879fc.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198706981-78f95ea9-f327-4330-b6f3-efd9c47251d5.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198707129-7fd63a83-5ce7-49e9-acfb-b407b40c1829.png)
 
 
 
