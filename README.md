@@ -142,7 +142,8 @@ used to find best W and B its goal is  to reach minimum error coordiantes.(Botto
 # [Week 4](https://drive.google.com/drive/folders/12FA_QRbs1Pjfx9WmKd-TOdk8uwKgLYda)
 ## Guess work (https://www.analyticsvidhya.com/blog/2021/06/guide-to-gradient-descent-and-its-variants-with-python-implementation/)
 ## Contour Maps+Comparison of all variations
-![Alt Text](https://firebasestorage.googleapis.com/v0/b/visitcounter-fef16.appspot.com/o/885513eee0b_33163162ddd94900b7d9f5b049e9b7e3_mv2.gif?alt=media&token=b71104a0-166d-4bd0-b297-6833f4485f4a)
+
+![Alt](https://firebasestorage.googleapis.com/v0/b/visitcounter-fef16.appspot.com/o/885513eee0b_33163162ddd94900b7d9f5b049e9b7e3_mv2.gif?alt=media&token=b71104a0-166d-4bd0-b297-6833f4485f4a)
 
 Momentum based Gradient Descent
 
