@@ -236,9 +236,7 @@ But as matrix is not always square matric we use the later one.
 
 SVD for learning word representations
 
-SVD for learning word representations (Contd.)
-
-Continuous bag of words model
+Continuous bag of words model(Does not count occurences)
 
 Skip-gram model
 
@@ -253,9 +251,17 @@ GloVe representations
 Evaluating word representations
 
 Relation between SVD and Word2Vec
-
+https://youtu.be/MBcnPueElDU
 
 ##### In most SVD works fine
+
+
+
+
+# [Week 12]
+Applications of hybrid bersions of CNN RNN 
+RNN GRU LSTM
+![image](https://user-images.githubusercontent.com/72144717/198847359-5af03c7c-025a-412f-bf99-a19e8d45d815.png)
 
 
 
