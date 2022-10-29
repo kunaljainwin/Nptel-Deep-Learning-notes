@@ -243,6 +243,7 @@ The linear independence of a set of vectors can be determined by calculating the
 Beause they are co-related
 ![image](https://user-images.githubusercontent.com/72144717/198727554-5454f847-583b-4a3a-87de-f1293b461723.png)
 #
+![image](https://user-images.githubusercontent.com/72144717/198823360-31193afa-8aa1-4534-8648-c397906c7717.png)
 
 
 
