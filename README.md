@@ -7,6 +7,7 @@
 - [ ] Thus far has not been well integrated with prior knowledges
 - [ ]  `VARIANCE` : Difference in performance of MLAlogo between Training and testing datasets
 - [ ]  Ideal algorithm has low bias as well as low variance
+- [ ]  https://youtu.be/wl1myxrtQHQ
 ### TENSORFLOW
 - Opensource
 - Tensors in TF are multi dimensional arrays(DATA with higher dimensions)
@@ -224,6 +225,7 @@ ReLU -> Leaky ReLU -> Parameteric ReLU -> Exponential ReLU
 ![image](https://user-images.githubusercontent.com/72144717/198829006-2cfedd8d-002b-4aae-8b51-a3e95191d1e6.png)
 
 
+# [Week 8]
 
 
 
@@ -272,6 +274,16 @@ Beause they are co-related
 ![image](https://user-images.githubusercontent.com/72144717/198827657-8d3c8b04-facb-443b-bb4d-3fce23d5a2a1.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198827744-e73c3be9-42c4-48c2-807d-d83284315b8c.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198830882-324f2347-2d2b-4715-b796-1545486a167b.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198830999-7e63896b-5dd6-4f44-84b3-58e8aa487753.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198831042-30be2817-5b52-4ffc-9e87-3379904cd434.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198831111-222442d2-05cc-4523-8727-e68b5e801197.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198831125-f86bbd05-fafd-4bf1-835b-0b47230e46e3.png)
 
 
 
