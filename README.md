@@ -207,9 +207,9 @@ constraints in squares
 ![image](https://user-images.githubusercontent.com/72144717/198826851-64fcb6c9-e690-49f7-a3ee-42c79da5383f.png)
 constraints in circles
 #### Dropout
-
-
 # [Week 7]
+
+# [Week 8](https://drive.google.com/drive/folders/1jnPn9oBVMUOM0ZdzULjil3kWxMJTg18r)
 Evolution around 2006-2009
 ### problems with sigmoid
 Sigmoid neuron : gradient vanishes if W is large , Axis is large(Not possible as we normalized)
@@ -225,7 +225,37 @@ ReLU -> Leaky ReLU -> Parameteric ReLU -> Exponential ReLU
 ![image](https://user-images.githubusercontent.com/72144717/198829006-2cfedd8d-002b-4aae-8b51-a3e95191d1e6.png)
 
 
-# [Week 8]
+# [Week 9]
+- [ ] Words to Numbers 
+Sparse conversion is easy but it does not take emotional message with it
+#### Distributional Representation of words ( One which i used in starflix project)
+![image](https://user-images.githubusercontent.com/72144717/198831916-b5fe44c0-363f-4301-b7df-9c700e12341d.png)
+
+We can use Principle component analysis or Single value decomposition 
+But as matrix is not always square matric we use the later one.
+
+SVD for learning word representations
+
+SVD for learning word representations (Contd.)
+
+Continuous bag of words model
+
+Skip-gram model
+
+Skip-gram model (Contd.)
+
+Contrastive estimation
+
+Hierarchical softmax
+
+GloVe representations
+
+Evaluating word representations
+
+Relation between SVD and Word2Vec
+
+
+##### In most SVD works fine
 
 
 
@@ -284,6 +314,10 @@ Beause they are co-related
 ![image](https://user-images.githubusercontent.com/72144717/198831111-222442d2-05cc-4523-8727-e68b5e801197.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198831125-f86bbd05-fafd-4bf1-835b-0b47230e46e3.png)
+# SVD
+![image](https://user-images.githubusercontent.com/72144717/198833685-3471f70a-da21-4108-bd7e-bcebf57aa732.png)
+![image](https://user-images.githubusercontent.com/72144717/198833732-b8842335-a247-45ad-a938-7a2cf92df5b1.png)
+![image](https://user-images.githubusercontent.com/72144717/198833746-0353f105-d8c9-4450-90b7-def4ec493ffe.png)
 
 
 
