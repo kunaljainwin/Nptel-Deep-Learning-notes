@@ -193,6 +193,22 @@ salary /Income tax corelation
 - [ ] How do you prove linearly independent?
 The linear independence of a set of vectors can be determined by calculating the determinant of a matrix with columns composed of the vectors in the set. If the determinant is equal to zero, then the set of vectors is linearly dependent. If the determinant is non-zero, then the set of vectors is linearly independent.08
 
+
+#[Week 6]
+## Autoencoders
+[Helps](https://youtu.be/nTt_ajul8NY)
+
+
+
+
+
+
+
+
+
+
+
+
 ## Questions and Answers
 ![image](https://user-images.githubusercontent.com/72144717/198647394-3f9d9ccb-1ab1-44cc-a513-87b635c0e480.png)
 # 
@@ -226,6 +242,7 @@ The linear independence of a set of vectors can be determined by calculating the
 #
 Beause they are co-related
 ![image](https://user-images.githubusercontent.com/72144717/198727554-5454f847-583b-4a3a-87de-f1293b461723.png)
+#
 
 
 
