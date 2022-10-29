@@ -208,6 +208,22 @@ constraints in circles
 #### Dropout
 
 
+# [Week 7]
+Evolution around 2006-2009
+### problems with sigmoid
+Sigmoid neuron : gradient vanishes if W is large , Axis is large(Not possible as we normalized)
+- They are not 0 centered.
+- ![image](https://user-images.githubusercontent.com/72144717/198829559-047158ce-30bc-4938-afc2-0afb98492ed5.png)
+
+- [ ] People found tanh and ReLU good replacement for
+![image](https://user-images.githubusercontent.com/72144717/198829585-8d392f28-14e0-4733-98c4-251746ec4de6.png)
+## [ReLU](https://youtu.be/HxKaLyyGq50?t=1064)
+ReLU -> Leaky ReLU -> Parameteric ReLU -> Exponential ReLU
+![image](https://user-images.githubusercontent.com/72144717/198829631-f7d22edb-6dd9-4b63-84cd-430997b2939f.png)
+
+![image](https://user-images.githubusercontent.com/72144717/198829006-2cfedd8d-002b-4aae-8b51-a3e95191d1e6.png)
+
+
 
 
 
