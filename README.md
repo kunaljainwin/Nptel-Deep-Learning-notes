@@ -197,7 +197,15 @@ The linear independence of a set of vectors can be determined by calculating the
 #[Week 6]
 ## Autoencoders
 [Helps](https://youtu.be/nTt_ajul8NY)
-
+### Regularization 
+Constraints the weights in a range
+#### L1
+![image](https://user-images.githubusercontent.com/72144717/198826812-e29c1d75-4471-4f68-a1f7-8ba1bb2ecc02.png)
+constraints in squares
+#### L2
+![image](https://user-images.githubusercontent.com/72144717/198826851-64fcb6c9-e690-49f7-a3ee-42c79da5383f.png)
+constraints in circles
+#### Dropout
 
 
 
@@ -244,6 +252,10 @@ Beause they are co-related
 ![image](https://user-images.githubusercontent.com/72144717/198727554-5454f847-583b-4a3a-87de-f1293b461723.png)
 #
 ![image](https://user-images.githubusercontent.com/72144717/198823360-31193afa-8aa1-4534-8648-c397906c7717.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198827657-8d3c8b04-facb-443b-bb4d-3fce23d5a2a1.png)
+#
+![image](https://user-images.githubusercontent.com/72144717/198827744-e73c3be9-42c4-48c2-807d-d83284315b8c.png)
 
 
 
