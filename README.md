@@ -259,6 +259,7 @@ https://youtu.be/MBcnPueElDU
 
 
 # [Week 12]
+Conditional Probability distribution
 Applications of hybrid bersions of CNN RNN 
 RNN GRU LSTM
 ![image](https://user-images.githubusercontent.com/72144717/198847359-5af03c7c-025a-412f-bf99-a19e8d45d815.png)
